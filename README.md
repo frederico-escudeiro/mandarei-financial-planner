@@ -1,2 +1,2 @@
 # mandarei-financial-planner
-Mandarei Financial Planner. A budget administrator and planner with dashboards
+Mandarei financial planner is an App for planning your next buy with visual help.
